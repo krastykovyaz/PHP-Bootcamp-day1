@@ -1,5 +1,5 @@
-# -PHP
-
-93/100
-ex03 not correct (multiple space)
-ex10 not correct (nothing to be errors)
+# -PHP\n
+\n
+93/100\n
+ex03 not correct (multiple space)\n
+ex10 not correct (nothing to be errors)\n
